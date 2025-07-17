@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="093addd2-83ad-410e-ac25-5e33dde8c565" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/baitap1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap1/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap2/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap3/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap3/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap3/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanh2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanh2/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanh2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanh3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanh3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanh3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanh3/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanh3/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-control-flow-and-loop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-control-flow-and-loop/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-control-flow-and-loop/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-control-flow-and-loop/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-control-flow-and-loop/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-is-prime/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-is-prime/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-is-prime/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-is-prime/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-is-prime/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-shape/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-shape/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-shape/src/IArea.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-shape/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-shape/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-shape/src/rectangle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-shape/src/shape.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-shape/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-variable/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-variable/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-variable/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-variable/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-variable/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/baitap1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="300VvUubkA3kRtwSoJBTeWpFsJF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="093addd2-83ad-410e-ac25-5e33dde8c565" name="Changes" comment="" />
+      <created>1752764708520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752764708520</updated>
+      <workItem from="1752764710073" duration="169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/baitap3/src/main.js" />
+        <option value="$PROJECT_DIR$/typescript-control-flow-and-loop/src/main.js" />
+        <option value="$PROJECT_DIR$/typescript-is-prime/src/main.js" />
+        <option value="$PROJECT_DIR$/typescript-variable/src/main.js" />
+      </list>
+    </option>
+  </component>
+</project>
