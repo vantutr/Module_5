@@ -1,0 +1,80 @@
+body {
+  font-family: "Inter", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #f0f2f5;
+  color: #333;
+}
+
+.car-selection-container {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 90%;
+  max-width: 500px;
+  border: 1px solid #e0e0e0;
+}
+
+h1 {
+  color: #2c3e50;
+  margin-bottom: 30px;
+  font-size: 2.2em;
+  font-weight: 700;
+}
+
+.selection-group {
+  margin-bottom: 25px;
+  text-align: left;
+}
+
+.selection-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 600;
+  color: #555;
+  font-size: 1.1em;
+}
+
+.selection-group select {
+  width: 100%;
+  padding: 12px 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1em;
+  background-color: #f8f8f8;
+  appearance: none; /* Loại bỏ style mặc định của trình duyệt */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23666%22%20d%3D%22M287%2C197.3L159.2%2C69.5c-3.2-3.2-8.3-3.2-11.5%2C0L1.4%2C197.3c-3.2%2C3.2-3.2%2C8.3%2C0%2C11.5l11.5%2C11.5c3.2%2C3.2%2C8.3%2C3.2%2C11.5%2C0l129.4-129.4c3.2-3.2%2C8.3-3.2%2C11.5%2C0l129.4%2C129.4c3.2%2C3.2%2C8.3%2C3.2%2C11.5%2C0l11.5-11.5C290.2%2C205.6%2C290.2%2C200.5%2C287%2C197.3z%22%2F%3E%3C%2Fsvg%3E"); /* Custom arrow */
+  background-repeat: no-repeat;
+  background-position: right 15px center;
+  background-size: 12px;
+  cursor: pointer;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.selection-group select:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25);
+  outline: none;
+}
+
+.result-display {
+  margin-top: 35px;
+  padding: 20px;
+  background-color: #e9f5ff;
+  border-radius: 8px;
+  border: 1px solid #cce5ff;
+}
+
+.result-display p {
+  margin: 0;
+  font-size: 1.4em;
+  font-weight: 700;
+  color: #0056b3;
+}
