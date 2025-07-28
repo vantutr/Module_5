@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Style cho trang Login */
+.login-page {
+  background-color: #e0f2ff; /* Màu nền xanh nhạt */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.login-container {
+  background-color: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.login-container h1 {
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+.login-container input {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-sizing: border-box; /* Quan trọng */
+  font-size: 1rem;
+}
+
+.login-container button {
+  width: 100%;
+  padding: 15px;
+  border: none;
+  border-radius: 8px;
+  background-color: #3b82f6; /* Màu xanh dương */
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.login-container button:hover {
+  background-color: #2563eb;
+}
+
+/* Style cho các trang chính */
+.main-layout {
+  padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.main-nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 2rem 0;
+  display: flex;
+  gap: 20px;
+}
+
+.main-nav a,
+.main-nav button {
+  text-decoration: none;
+  color: #0070f3;
+  font-size: 1.1rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+.main-nav a:hover,
+.main-nav button:hover {
+  text-decoration: underline;
+}
+
+.page-content h1 {
+  font-size: 2.5rem;
+  color: #111;
+}
